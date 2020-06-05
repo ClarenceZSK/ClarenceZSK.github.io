@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | 张胜凯</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Robot-assisted Backscatter Localization for IoT Applications</title>
+      <link>/publication/rover_twc/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rover_twc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiFi-Inertial Indoor Pose Estimation for Micro Aerial Vehicles</title>
+      <link>/publication/wins/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RF Backscatter-based State Estimation for Micro Aerial Vehicles</title>
+      <link>/publication/marvel/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/marvel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localizing Backscatters by a Single Robot With Zero Start-up Cost</title>
+      <link>/publication/rover/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster Fair Queueing: Speeding up Data-Parallel Jobs with Delay Guarantees</title>
+      <link>/publication/cfq/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cfq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSI-Based WiFi-Inertial State Estimation</title>
+      <link>/publication/cwise/</link>
+      <pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cwise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximized Cellular Traffic Offloading via Device-to-Device Content Sharing</title>
+      <link>/publication/d2d/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/d2d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
