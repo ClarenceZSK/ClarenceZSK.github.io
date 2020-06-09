@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Wang | Shengkai</title>
-    <link>http://sheng-kai.top/author/wei-wang/</link>
-      <atom:link href="http://sheng-kai.top/author/wei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.sheng-kai.top/author/wei-wang/</link>
+      <atom:link href="http://www.sheng-kai.top/author/wei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Wang</title>
-      <link>http://sheng-kai.top/author/wei-wang/</link>
+      <link>http://www.sheng-kai.top/author/wei-wang/</link>
     </image>
     
     <item>
       <title>Robot-assisted Backscatter Localization for IoT Applications</title>
-      <link>http://sheng-kai.top/publication/rover_twc/</link>
+      <link>http://www.sheng-kai.top/publication/rover_twc/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/publication/rover_twc/</guid>
+      <guid>http://www.sheng-kai.top/publication/rover_twc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi-Inertial Indoor Pose Estimation for Micro Aerial Vehicles</title>
-      <link>http://sheng-kai.top/publication/wins/</link>
+      <link>http://www.sheng-kai.top/publication/wins/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/publication/wins/</guid>
+      <guid>http://www.sheng-kai.top/publication/wins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RF Backscatter-based State Estimation for Micro Aerial Vehicles</title>
-      <link>http://sheng-kai.top/publication/marvel/</link>
+      <link>http://www.sheng-kai.top/publication/marvel/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/publication/marvel/</guid>
+      <guid>http://www.sheng-kai.top/publication/marvel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localizing Backscatters by a Single Robot With Zero Start-up Cost</title>
-      <link>http://sheng-kai.top/publication/rover/</link>
+      <link>http://www.sheng-kai.top/publication/rover/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/publication/rover/</guid>
+      <guid>http://www.sheng-kai.top/publication/rover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cluster Fair Queueing: Speeding up Data-Parallel Jobs with Delay Guarantees</title>
-      <link>http://sheng-kai.top/publication/cfq/</link>
+      <link>http://www.sheng-kai.top/publication/cfq/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/publication/cfq/</guid>
+      <guid>http://www.sheng-kai.top/publication/cfq/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Shengkai</title>
-    <link>http://sheng-kai.top/project/</link>
-      <atom:link href="http://sheng-kai.top/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.sheng-kai.top/project/</link>
+      <atom:link href="http://www.sheng-kai.top/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
+      <url>http://www.sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>http://sheng-kai.top/project/</link>
+      <link>http://www.sheng-kai.top/project/</link>
     </image>
     
     <item>
       <title>Fully 3D WiFi-based MAV State Estimation</title>
-      <link>http://sheng-kai.top/project/full-3d-wifi-based-state-estimation/</link>
+      <link>http://www.sheng-kai.top/project/full-3d-wifi-based-state-estimation/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/project/full-3d-wifi-based-state-estimation/</guid>
+      <guid>http://www.sheng-kai.top/project/full-3d-wifi-based-state-estimation/</guid>
       <description>&lt;p&gt;We take ubiquitous WiFi to extract absolute-relative drift-free environmental sensing features. Inspiring from visual-based state estimators, we view WiFi access points (APs) as environmental features whose geometrical relationship to the vehicle is established by WiFi signals. The PHY information of WiFi holds the cues of MAV positions and attitudes as well as APs&amp;rsquo; positions. Compare to the visual cues from images captured by camera, APs are few but persistent, even out of sight (behind walls) while visual features are rich but changeable with the field of view.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RF-Visual SLAM in Textureless Venues</title>
-      <link>http://sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</link>
+      <link>http://www.sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</guid>
+      <guid>http://www.sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</guid>
       <description>&lt;p&gt;Monocular visual based state estimators fail to work in textureless venues due to the lack of visual features or reliable feature matching. Recently, RF sensing has been proved to be an effective sensing modality that complements the visual sensing and enables estimate MAV states in textureless venues. However, its accuracy is limited due to the large wavelength of RF signals. We are currently working on an exciting project that combines RF and visual sensing and take the best of both worlds.&lt;/p&gt;
 </description>
     </item>
