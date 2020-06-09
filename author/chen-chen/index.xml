@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Chen | Shengkai</title>
-    <link>http://www.sheng-kai.top/author/chen-chen/</link>
-      <atom:link href="http://www.sheng-kai.top/author/chen-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sheng-kai.top/author/chen-chen/</link>
+      <atom:link href="http://sheng-kai.top/author/chen-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
       <title>Chen Chen</title>
-      <link>http://www.sheng-kai.top/author/chen-chen/</link>
+      <link>http://sheng-kai.top/author/chen-chen/</link>
     </image>
     
     <item>
       <title>Cluster Fair Queueing: Speeding up Data-Parallel Jobs with Delay Guarantees</title>
-      <link>http://www.sheng-kai.top/publication/cfq/</link>
+      <link>http://sheng-kai.top/publication/cfq/</link>
       <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://www.sheng-kai.top/publication/cfq/</guid>
+      <guid>http://sheng-kai.top/publication/cfq/</guid>
       <description></description>
     </item>
     
