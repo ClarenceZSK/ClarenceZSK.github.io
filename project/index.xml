@@ -14,9 +14,9 @@
     
     <item>
       <title>UWB NLOS Identification</title>
-      <link>http://www.sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</link>
+      <link>http://www.sheng-kai.top/project/uwb-nlos-identification/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</guid>
+      <guid>http://www.sheng-kai.top/project/uwb-nlos-identification/</guid>
       <description>&lt;p&gt;Current UWB NLOS identification methods use machine learning techniques to give naive results. The lack of elegent solutions motivates us to open this project.&lt;/p&gt;
 </description>
     </item>

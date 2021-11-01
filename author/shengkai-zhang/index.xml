@@ -5,12 +5,20 @@
     <link>http://www.sheng-kai.top/author/shengkai-zhang/</link>
       <atom:link href="http://www.sheng-kai.top/author/shengkai-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shengkai Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.sheng-kai.top/author/shengkai-zhang/avatar_hu9a264c15c79863c2a422fb5085dd9667_1671383_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Shengkai Zhang</title>
       <link>http://www.sheng-kai.top/author/shengkai-zhang/</link>
     </image>
+    
+    <item>
+      <title>Conquering Textureless with RF-referenced Monocular Vision for MAV State Estimation</title>
+      <link>http://www.sheng-kai.top/publication/rfsift/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.sheng-kai.top/publication/rfsift/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robot-assisted Backscatter Localization for IoT Applications</title>
