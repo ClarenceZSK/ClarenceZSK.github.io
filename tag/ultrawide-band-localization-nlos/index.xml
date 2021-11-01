@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultrawide-band, localization, NLOS | Shengkai</title>
+    <link>http://www.sheng-kai.top/tag/ultrawide-band-localization-nlos/</link>
+      <atom:link href="http://www.sheng-kai.top/tag/ultrawide-band-localization-nlos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ultrawide-band, localization, NLOS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_2.png</url>
+      <title>Ultrawide-band, localization, NLOS</title>
+      <link>http://www.sheng-kai.top/tag/ultrawide-band-localization-nlos/</link>
+    </image>
+    
+    <item>
+      <title>UWB NLOS Identification</title>
+      <link>http://www.sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.sheng-kai.top/project/rf-assisted-monocular-visual-state-estimation-in-textureless-environments/</guid>
+      <description>&lt;p&gt;Current UWB NLOS identification methods use machine learning techniques to give naive results. The lack of elegent solutions motivates us to open this project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
