@@ -5,7 +5,7 @@
     <link>http://www.sheng-kai.top/project/</link>
       <atom:link href="http://www.sheng-kai.top/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.sheng-kai.top/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
+      <title>3D Bounding Box Dection using mmWave Radar</title>
+      <link>http://www.sheng-kai.top/project/3d-bbox-detection-using-mmwave-radar/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.sheng-kai.top/project/3d-bbox-detection-using-mmwave-radar/</guid>
+      <description>&lt;p&gt;It is interesting while challenging to generate accurate 3D bbox using the sparse point cloud from mmWave radars. We believe mmWave radar alone cannot complete this job well. We seek to a sensor fusion method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>UWB NLOS Identification</title>
       <link>http://www.sheng-kai.top/project/uwb-nlos-identification/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://www.sheng-kai.top/project/uwb-nlos-identification/</guid>
       <description>&lt;p&gt;Current UWB NLOS identification methods use machine learning techniques to give naive results. The lack of elegent solutions motivates us to open this project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fully 3D WiFi-based MAV State Estimation</title>
-      <link>http://www.sheng-kai.top/project/3d-bbox-detection-using-mmwave-radar/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.sheng-kai.top/project/3d-bbox-detection-using-mmwave-radar/</guid>
-      <description>&lt;p&gt;We take ubiquitous WiFi to extract absolute-relative drift-free environmental sensing features. Inspiring from visual-based state estimators, we view WiFi access points (APs) as environmental features whose geometrical relationship to the vehicle is established by WiFi signals. The PHY information of WiFi holds the cues of MAV positions and attitudes as well as APs&amp;rsquo; positions. Compare to the visual cues from images captured by camera, APs are few but persistent, even out of sight (behind walls) while visual features are rich but changeable with the field of view.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,10 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.sheng-kai.top/publication-type/1/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
+    <loc>http://www.sheng-kai.top/project/3d-bbox-detection-using-mmwave-radar/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/tag/bbox-detection/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/project/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/tags/</loc>
+    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/publication-type/2/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/authors/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/author/fei-xiao/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/author/huixin-dong/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/publication_types/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/publication/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/author/shaojie-shen/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/author/shengkai-zhang/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/author/sheyang-tang/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/publication/wision/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/author/yi-zhong/</loc>
+    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.sheng-kai.top/publication-type/1/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/author/chris-xiaoxuan-lu/</loc>
@@ -17,34 +62,13 @@
     <loc>http://www.sheng-kai.top/author/pengen-gao/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.sheng-kai.top/publication_types/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/publication/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/author/shengkai-zhang/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.sheng-kai.top/author/wei-wang/</loc>
     <lastmod>2022-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/publication/rfsift/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.sheng-kai.top/project/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://www.sheng-kai.top/author/qian-zhang/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/author/sheyang-tang/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/tags/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/author/tao-jiang/</loc>
@@ -55,9 +79,6 @@
   </url><url>
     <loc>http://www.sheng-kai.top/project/uwb-nlos-identification/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/publication-type/2/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/publication/rover_twc/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
@@ -73,12 +94,6 @@
   </url><url>
     <loc>http://www.sheng-kai.top/publication/marvel/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/project/3d-bbox-detection-using-mmwave-radar/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/tag/state-estimation/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/publication/rover/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
@@ -96,9 +111,6 @@
     <lastmod>2016-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/publication/cwise/</loc>
-    <lastmod>2016-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://www.sheng-kai.top/author/shaojie-shen/</loc>
     <lastmod>2016-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://www.sheng-kai.top/author/baochun-li/</loc>
