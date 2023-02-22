@@ -1,0 +1,18 @@
+{
+  "name": "Shengkai",
+  "short_name": "Shengkai",
+  "lang": "en-us",
+  "theme_color": "rgb(251, 191, 183)",
+  "background_color": "rgb(251, 191, 183)",
+  "icons": [{
+    "src": "/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu4578e1fc9e028351bfb752007350c908_42291_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
